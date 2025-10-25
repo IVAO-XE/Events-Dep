@@ -1,4 +1,4 @@
-# IVAO-XE
+# IVAO XE Events Department Repo
 
 ## Tree Structure
 ```
