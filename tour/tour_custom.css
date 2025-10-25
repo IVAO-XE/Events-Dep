@@ -1,0 +1,137 @@
+/*
+	Used for IVAO XE Tour System page, including:
+	- General Tour Rules
+	- Individual Tour Rules
+	
+	Custom Style
+	．Version: 1.0.0
+	．Last Update: 2025/10/25
+*/
+
+@scope (.xe-tour) {	/* Not to conflict with root */
+	/*	
+		=== Custom Block ===
+		e.g., <div class="block info text">ℹ️ Here're some information.</div>,
+		      <div class="block warning text">⚠ Warning!!!</div>
+	*/
+	.block{		/* base */
+		background: var(--bg);
+		border: 1px solid rgba(0,0,0,.06);
+		border-left: 4px solid var(--accent);
+		border-radius: 8px;
+		color: var(--text);
+		margin-block: 16px;
+		padding: 12px 12px;
+	}
+	.block.info {	/* blue */
+		--accent: #1a73e8;
+		--bg: #e6f4ff;
+		--text: #1a73e8;
+	}
+	.block.success {	/* green */
+		--accent: #1e8e3e;
+		--bg: #e6f4ea;
+		--text: #1e8e3e;
+	}
+	.block.warning {	/* amber */
+		--accent: #f9ab00;
+		--bg: #fff7e0;
+		--text: #a86a00;
+	}
+	.block.danger {		/* red */
+		--accent: #d93025;
+		--bg: #fde8e8;
+		--text: #c0342b;
+	}
+	
+	/* 
+		=== Custom Spoiler ===
+		Used with custom block
+		e.g.,
+			<details class="block spoiler warning text">
+				<summary>⚠ Caution</summary>
+				<ul>
+					<li>First item</li>
+					<li>Second item</li>
+				</ul>
+			</details>
+	*/
+	details.block.spoiler > summary {
+		cursor: pointer;
+		font-weight: bold;
+		list-style: none;
+		outline: none;
+	}
+	details.block.spoiler > summary::before{	/* Add a chevron symbol */
+		content: "▶";
+		display: inline-block;
+		margin-right: 0.5em;
+		transition: transform .2s ease;
+	}
+	details.block.spoiler[open] > summary::before{ transform: rotate(90deg); }
+	details.block.spoiler > ul { margin: 0.5em 0 0; }	/* Space the revealed content a bit */
+	
+	/*	
+		=== Custom Divider ===
+		e.g., <div class="divider">Some Title</div>
+	*/
+	div.divider {
+		align-items: center;
+		color: #3c55ac;
+		display: flex;
+		font-size: 20px;
+		font-weight: bold;
+		margin: 32px 0; 
+		text-align: center;
+		letter-spacing: 0.1em;
+    }
+    div.divider::before, .divider::after {
+		border-bottom: 6px solid #e0e0e0;
+		content: "";
+		flex: 1;
+    }
+    div.divider:not(:empty)::before { margin-right: 0.75em; }
+    div.divider:not(:empty)::after { margin-left: 0.75em; }
+	
+	/*	
+		=== Custom Ordered List ===
+		1. paren-alpha: (a), (b), (c), ...
+		2. paren-num  : (1), (2), (3), ...
+		e.g., 
+			<ol class="paren-alpha text">
+				<li>First item</li>
+				<li>Second item</li>
+			</ol>
+
+	*/
+	ol.paren-alpha {
+		list-style: none;
+		counter-reset: alpha;
+		padding-left: 3.5em;
+	}
+	ol.paren-alpha > li {
+		counter-increment: alpha;
+		position: relative;
+		margin: 0.4em 0;
+	}
+	ol.paren-alpha > li::before {
+		content: "(" counter(alpha, lower-alpha) ") ";
+		position: absolute;
+		left: -2em;
+	}
+	ol.paren-num {
+		list-style: none;
+		counter-reset: num;
+		padding-left: 2.5em;
+	}
+	ol.paren-num > li {
+		counter-increment: num;
+		position: relative;
+		margin: 0.4em 0;
+	}
+	ol.paren-num > li::before {
+		content: "(" counter(num) ") ";
+		position: absolute;
+		left: -2em;
+	}
+}

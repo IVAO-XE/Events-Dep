@@ -1,0 +1,134 @@
+[CENTER][IMG]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/banner/E2507C.png[/IMG][/CENTER]
+
+[INDENT][SIZE=26px][COLOR=#3C55AC][B]2025 Golden Airbridge[/B][/COLOR][/SIZE][/INDENT]
+[INDENT][LIST]
+[*][SIZE=20px][B]Date:[/B][/SIZE][SIZE=18px] 2025/05/11[/SIZE]
+[*][SIZE=20px][B]Time:[/B][/SIZE][SIZE=18px] 12:00z ~ 16:00z[/SIZE]
+[*][SIZE=20px][B]Type:[/B][/SIZE][SIZE=18px] Airbridge / Fly-In[/SIZE] 
+[*][SIZE=20px][B]Location:[/B][/SIZE][SIZE=18px] Taoyuan Intl (RCTP), Taiwan ←→ Hong Kong Intl (VHHH), Hong Kong SAR[/SIZE]
+[*][SIZE=20px][B]Location:[/B][/SIZE][SIZE=18px] [TH] Suvarnabhumi Intl (VTBS), Thailand → [XE] Hong Kong Intl (VHHH), Hong Kong SAR[/SIZE]
+[*][SIZE=20px][B]Location[/B][/SIZE][INDENT][SIZE=18px]- [ID] Kualanamu Intl (WIMM), Indonesia
+- [TH] Suvarnabhumi Intl (VTBS), Thailand
+- [XE] Tan Son Nhat Intl (VVTS), Vietnam[/SIZE][/INDENT]
+[*][SIZE=20px][B]Location[/B][/SIZE]
+[INDENT][SIZE=18px][B]Departure[/B]
+- [ID] Kualanamu Intl (WIMM), Indonesia
+- [TH] Suvarnabhumi Intl (VTBS), Thailand
+[B]Arrival[/B]
+- [XE] Tan Son Nhat Intl (VVTS), Vietnam[/SIZE][/INDENT]
+[/LIST][/INDENT]
+
+[INDENT=2][JUSTIFY][SIZE=18px]Join us for another exciting flight in the [EVENT_NAME]! This time, we will be flying [between/from] [DEP_NAME (DEP_ICAO_CODE), REGION] [and/to] [ARR_NAME (ARR_ICAO_CODE), REGION], exploring the beautiful skies over [AREA]. Expect scenic routes, busy airways, and coordinated ATC coverage as we bring pilots together for an remarkable experience.[/SIZE][/JUSTIFY][/INDENT]
+
+[CENTER][IMG width=95%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/forum_pilotInfo.png[/IMG][/CENTER]
+
+[INDENT=2][SIZE=22px][B]Routes[/B][/SIZE]
+[INDENT][TABLE=noborder-collapsed]
+[TR]
+[TH][CENTER]　Departure　[/CENTER][/TH]
+[TH][CENTER]　Arrival　[/CENTER][/TH]
+[TH][CENTER]　Cruise FL　[/CENTER][/TH]
+[TH][CENTER]　Route　[/CENTER][/TH]
+[TH][CENTER]　Remark　[/CENTER][/TH]
+[/TR]
+[TR]
+[TD][CENTER]RCTP[/CENTER][/TD]
+[TD][CENTER]VHHH[/CENTER][/TD]
+[TD][CENTER]Even[/CENTER][/TD]
+[TD][CENTER]　CHALI T3 MKG A1 ELATO V522 ABBEY　[/CENTER][/TD]
+[TD][CENTER]N/A[/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER]VHHH[/CENTER][/TD]
+[TD][CENTER]RCTP[/CENTER][/TD]
+[TD][CENTER]Odd[/CENTER][/TD]
+[TD][CENTER]DALOL V631 ENVAR M750 TONGA[/CENTER][/TD]
+[TD][CENTER]N/A[/CENTER][/TD]
+[/TR]
+[/TABLE][/INDENT][/INDENT]
+
+[INDENT=2][SIZE=22px][B]Sceneries[/B][/SIZE]
+[INDENT][SIZE=18px]All sceneries can be found at [URL="https://xe.ivao.aero/scenery"]XE official website[/URL].[/SIZE][/INDENT][/INDENT]
+
+[INDENT=2][SIZE=22px][B]Sceneries[/B][/SIZE]
+[INDENT][SIZE=18px][B]- ID:[/B] [URL="https://onesimstore.com/product/kualanamu-international-airport-msfs2020/310"]OneSim Store[/URL]
+[B]- TH:[/B] All sceneries can be found at [URL="https://th.ivao.aero/resources/scenery/"]TH official website[/URL].
+[B]- XE:[/B] All sceneries can be found at [URL="https://xe.ivao.aero/scenery"]XE official website[/URL].[/SIZE][/INDENT][/INDENT]
+
+[INDENT=2][SIZE=22px][B]Charts[/B][/SIZE]
+[INDENT][SIZE=18px]- [URL="https://www.ais.gov.hk/"]Hong Kong eAIP[/URL]
+- [URL="https://www.aacm.gov.mo/en/industry-page/DataCompilation/AIP"]Macau eAIP[/URL]
+- [URL="https://www.ead.eurocontrol.int/cms-eadbasic/opencms/en/login/ead-basic/"]Philipines eAIP[/URL]. Please register a free account, and access it through EAD Basic.
+- [URL="https://aim.koca.go.kr/eaipPub/Package/history-en-GB.html"]South Korea eAIP[/URL]
+- [URL="https://ais.caa.gov.tw/eaip/"]Taiwan eAIP[/URL]
+- [URL="https://www.vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/AIP/history-en-GB.html"]Vietnam eAIP[/URL] (latest AIRAC ????)[/SIZE][/INDENT][/INDENT]
+
+[INDENT=2][SIZE=22px][B]Charts[/B][/SIZE]
+[INDENT][SIZE=18px][B]- ID:[/B] [URL="iwish.kemenhub.go.id"]iWish Indonesia[/URL]. Registering a free account is needed.
+[B]- IN:[/B] [URL="https://aim-india.aai.aero/eaip/"]India eAIP[/URL]
+[B]- TH:[/B] [URL="https://aip.caat.or.th/"]Thailand eAIP[/URL]
+[B]- XE:[/B] [URL="https://www.vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/AIP/2025-08-07-AIRAC/html/index-en-GB.html"]Vietnam eAIP[/URL] (latest AIRAC 2507)[/SIZE][/INDENT][/INDENT]
+
+[CENTER][IMG width=95%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/forum_ATCInfo.png[/IMG][/CENTER]
+
+[INDENT=2][SIZE=22px][B]ATC Bookings[/B][/SIZE]
+[INDENT][SIZE=18px]Please book through [URL="https://xe.ivao.aero/event-atc/"]XE official website[/URL]. The final roster will be announced prior to the event.[/SIZE][/INDENT][/INDENT]
+
+[INDENT=2][SIZE=22px][B]ATC Bookings[/B][/SIZE]
+[INDENT][SIZE=18px][B]- ID:[/B] Please book through [URL="https://atc.ivao.aero/"]IVAO ATC Service Center[/URL].
+[B]- TH:[/B] Please book through [URL="https://tools.ivao.aero/event/TH"]TH ATC Booking System[/URL].
+[B]- XE:[/B] Please book through [URL="https://xe.ivao.aero/event-atc/"]XE official website[/URL]. The final roster will be announced prior to the event.[/SIZE][/INDENT][/INDENT]
+
+[CENTER][IMG width=95%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/forum_awards.png[/IMG][/CENTER]
+
+[INDENT=2][TABLE=noborder-collapsed]
+[TR]
+[TD][CENTER][SIZE=26px][B]For Pilots[/B][/SIZE][/CENTER][/TD]
+[TD][/TD]
+[TD][CENTER][SIZE=26px][B]For ATCs[/B][/SIZE][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][IMG]https://www.ivao.aero/data/images/awardsdiv/PED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　Pilot Events Award[/B][/COLOR][/SIZE]
+[SIZE=18px][JUSTIFY]Pilots completing a flight will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=220"]Division Tour System[/URL].[/JUSTIFY][/SIZE][/TD]
+[TD]　[/TD]
+[TD][IMG]https://www.ivao.aero/data/images/awardsdiv/AED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　ATC Events Award[/B][/COLOR][/SIZE]
+[SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 2 hours will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=209"]Division Tour System[/URL].[/JUSTIFY][/SIZE][/TD]
+[/TR]
+[TR]
+[TD][IMG]https://www.ivao.aero/data/images/awardsdiv/PED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　Pilot Events Award[/B][/COLOR][/SIZE]
+[SIZE=18px][JUSTIFY]Pilots completing a flight will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/"]Division Tour System[/URL] of respective divisions. For example, if conducting a flight VTBS - VVTS, you can report to both TH & XE division.[/JUSTIFY][/SIZE][/TD]
+[TD]　[/TD]
+[TD][IMG]https://www.ivao.aero/data/images/awardsdiv/AED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　ATC Events Award[/B][/COLOR][/SIZE]
+[SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 1 (TH, ID) / 2 (XE) hour(s) will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/"]Division Tour System[/URL] of respective divisions.[/JUSTIFY][/SIZE][/TD]
+[/TR]
+[TR]
+[TD][IMG]https://www.ivao.aero/data/images/awards/EPD.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　IVAO ESA - Pilot[/B][/COLOR][/SIZE]
+[SIZE=18px][JUSTIFY]Pilots completing a flight will gain +1 point. Legs should be reported to [URL="http://hqe.ivao.aero"]hqe.ivao.aero[/URL].[/JUSTIFY][/SIZE][/TD]
+[TD]　[/TD]
+[TD][IMG]https://www.ivao.aero/data/images/awards/EAD.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　IVAO ESA - ATC[/B][/COLOR][/SIZE]
+[SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 2 hours will gain +1 point. Legs should be reported to [URL="http://hqe.ivao.aero"]hqe.ivao.aero[/URL].[/JUSTIFY][/SIZE][/TD]
+[/TR]
+[/TABLE]
+[HR][/HR]
+
+[IMG]https://ivao.aero/data/images/awardsdiv/AC.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　Aviation Celebration Events Award[/B][/COLOR][/SIZE]
+[SIZE=18px]Pilots/ATCs receiving Pilot Events Award/ATC Events Award will also gain it.[/SIZE]
+
+[HR][/HR][/INDENT]
+[INDENT=2][SIZE=18px]Should you have any inquiries, please contact the Events Department of East Asia Region Division at [EMAIL]xe-events@ivao.aero[/EMAIL].[/SIZE][/INDENT]
+
+[CENTER][IMG width=30%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/xe-logo.png[/IMG][/CENTER]
+
+[INDENT=2][SIZE=18px]Should you have any inquiries, please contact the Events Department of respective divisions at [EMAIL]id-events@ivao.aero[/EMAIL], [EMAIL]th-events@ivao.aero[/EMAIL], [EMAIL]xe-events@ivao.aero[/EMAIL].[/SIZE][/INDENT]
+
+[INDENT=4][TABLE=noborder-collapsed]
+[TR]
+[TD][IMG width=80%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/id-logo.png[/IMG][/TD]
+[TD][IMG width=90%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/th-logo.png[/IMG][/TD]
+[TD]　　[/TD]
+[TD][IMG width=90%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/xe-logo.png[/IMG][/TD]
+[/TR]
+[/TABLE][/INDENT]
+
+[HR][/HR]
+[SIZE=12px][URL='https://www.flaticon.com/free-icon/airplane_31069']Airplane icon[/URL], [URL='https://www.flaticon.com/free-icon/hangar_1652936']hangar icon[/URL], [URL='https://www.flaticon.com/free-icon/radar_2881640']radar icon[/URL], [URL='https://www.flaticon.com/free-icon/premium-badge_70535']badge icon[/URL] by [URL='https://www.flaticon.com/authors/freepik']Freepik[/URL], [URL='https://www.flaticon.com/free-icon/pilot-hat_4469538']pilot hat icon[/URL], [URL='https://www.flaticon.com/free-icon/control-tower_761639']control tower icon[/URL] by [URL='https://www.flaticon.com/authors/good-ware']Good Ware[/URL], and [URL='https://www.flaticon.com/free-icon/airport_18847303']airport icon[/URL] by [URL='https://www.flaticon.com/authors/sympnoiaicon']Sympnoiaicon[/URL] from [URL='https://www.flaticon.com/']Flaticon[/URL].[/SIZE]
