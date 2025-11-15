@@ -115,7 +115,7 @@
 [SIZE=18px]Pilots/ATCs receiving Pilot Events Award/ATC Events Award will also gain it.[/SIZE]
 
 [HR][/HR][/INDENT]
-[INDENT=2][SIZE=18px]Should you have any inquiries, please contact the Events Department of East Asia Region Division at [EMAIL]xe-events@ivao.aero[/EMAIL].[/SIZE][/INDENT]
+[INDENT=2][SIZE=18px]Should you have any inquiries, please contact the XE Events Department via email at [EMAIL]xe-events@ivao.aero[/EMAIL], or via the [URL="https://xe.ivao.aero/voice/"]XE Discord server[/URL].[/SIZE][/INDENT]
 
 [CENTER][IMG width=30%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/xe-logo.png[/IMG][/CENTER]
 
@@ -131,4 +131,4 @@
 [/TABLE][/INDENT]
 
 [HR][/HR]
-[SIZE=12px][URL='https://www.flaticon.com/free-icon/airplane_31069']Airplane icon[/URL], [URL='https://www.flaticon.com/free-icon/hangar_1652936']hangar icon[/URL], [URL='https://www.flaticon.com/free-icon/radar_2881640']radar icon[/URL], [URL='https://www.flaticon.com/free-icon/premium-badge_70535']badge icon[/URL] by [URL='https://www.flaticon.com/authors/freepik']Freepik[/URL], [URL='https://www.flaticon.com/free-icon/pilot-hat_4469538']pilot hat icon[/URL], [URL='https://www.flaticon.com/free-icon/control-tower_761639']control tower icon[/URL] by [URL='https://www.flaticon.com/authors/good-ware']Good Ware[/URL], and [URL='https://www.flaticon.com/free-icon/airport_18847303']airport icon[/URL] by [URL='https://www.flaticon.com/authors/sympnoiaicon']Sympnoiaicon[/URL] from [URL='https://www.flaticon.com/']Flaticon[/URL].[/SIZE]
+[SIZE=12px][URL="https://www.flaticon.com/free-icon/airplane_31069"]Airplane icon[/URL], [URL="https://www.flaticon.com/free-icon/hangar_1652936"]hangar icon[/URL], [URL="https://www.flaticon.com/free-icon/radar_2881640"]radar icon[/URL], [URL="https://www.flaticon.com/free-icon/premium-badge_70535"]badge icon[/URL] by [URL="https://www.flaticon.com/authors/freepik"]Freepik[/URL], [URL="https://www.flaticon.com/free-icon/pilot-hat_4469538"]pilot hat icon[/URL], [URL="https://www.flaticon.com/free-icon/control-tower_761639"]control tower icon[/URL] by [URL="https://www.flaticon.com/authors/good-ware"]Good Ware[/URL], and [URL="https://www.flaticon.com/free-icon/airport_18847303"]airport icon[/URL] by [URL="https://www.flaticon.com/authors/sympnoiaicon"]Sympnoiaicon[/URL] from [URL="https://www.flaticon.com/"]Flaticon[/URL].[/SIZE]
