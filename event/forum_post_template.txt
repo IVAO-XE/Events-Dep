@@ -89,7 +89,7 @@
 [/TR]
 [TR]
 [TD][IMG]https://www.ivao.aero/data/images/awardsdiv/PED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　Pilot Events Award[/B][/COLOR][/SIZE]
-[SIZE=18px][JUSTIFY]Pilots completing a flight will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=220"]Division Tour System[/URL].[/JUSTIFY][/SIZE][/TD]
+[SIZE=18px][JUSTIFY]Pilots completing a flight with at least 1 hour flight time will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=220"]Division Tour System[/URL].[/JUSTIFY][/SIZE][/TD]
 [TD]　[/TD]
 [TD][IMG]https://www.ivao.aero/data/images/awardsdiv/AED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　ATC Events Award[/B][/COLOR][/SIZE]
 [SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 2 hours will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=209"]Division Tour System[/URL].[/JUSTIFY][/SIZE][/TD]
@@ -103,7 +103,7 @@
 [/TR]
 [TR]
 [TD][IMG]https://www.ivao.aero/data/images/awards/EPD.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　IVAO ESA - Pilot[/B][/COLOR][/SIZE]
-[SIZE=18px][JUSTIFY]Pilots completing a flight will gain +1 point. Legs should be reported to [URL="http://hqe.ivao.aero"]hqe.ivao.aero[/URL].[/JUSTIFY][/SIZE][/TD]
+[SIZE=18px][JUSTIFY]Pilots completing a flight with at least 1 hour flight time will gain +1 point. Legs should be reported to [URL="http://hqe.ivao.aero"]hqe.ivao.aero[/URL].[/JUSTIFY][/SIZE][/TD]
 [TD]　[/TD]
 [TD][IMG]https://www.ivao.aero/data/images/awards/EAD.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　IVAO ESA - ATC[/B][/COLOR][/SIZE]
 [SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 2 hours will gain +1 point. Legs should be reported to [URL="http://hqe.ivao.aero"]hqe.ivao.aero[/URL].[/JUSTIFY][/SIZE][/TD]
@@ -115,7 +115,7 @@
 [SIZE=18px]Pilots/ATCs receiving Pilot Events Award/ATC Events Award will also gain it.[/SIZE]
 
 [HR][/HR][/INDENT]
-[INDENT=2][SIZE=18px]Should you have any inquiries, please contact the Events Department of East Asia Region Division at [EMAIL]xe-events@ivao.aero[/EMAIL].[/SIZE][/INDENT]
+[INDENT=2][SIZE=18px]Should you have any inquiries, please contact the XE Events Department via email at [EMAIL]xe-events@ivao.aero[/EMAIL], or via the [URL="https://xe.ivao.aero/voice/"]XE Discord server[/URL].[/SIZE][/INDENT]
 
 [CENTER][IMG width=30%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/xe-logo.png[/IMG][/CENTER]
 
@@ -131,4 +131,4 @@
 [/TABLE][/INDENT]
 
 [HR][/HR]
-[SIZE=12px][URL='https://www.flaticon.com/free-icon/airplane_31069']Airplane icon[/URL], [URL='https://www.flaticon.com/free-icon/hangar_1652936']hangar icon[/URL], [URL='https://www.flaticon.com/free-icon/radar_2881640']radar icon[/URL], [URL='https://www.flaticon.com/free-icon/premium-badge_70535']badge icon[/URL] by [URL='https://www.flaticon.com/authors/freepik']Freepik[/URL], [URL='https://www.flaticon.com/free-icon/pilot-hat_4469538']pilot hat icon[/URL], [URL='https://www.flaticon.com/free-icon/control-tower_761639']control tower icon[/URL] by [URL='https://www.flaticon.com/authors/good-ware']Good Ware[/URL], and [URL='https://www.flaticon.com/free-icon/airport_18847303']airport icon[/URL] by [URL='https://www.flaticon.com/authors/sympnoiaicon']Sympnoiaicon[/URL] from [URL='https://www.flaticon.com/']Flaticon[/URL].[/SIZE]
+[SIZE=12px][URL="https://www.flaticon.com/free-icon/airplane_31069"]Airplane icon[/URL], [URL="https://www.flaticon.com/free-icon/hangar_1652936"]hangar icon[/URL], [URL="https://www.flaticon.com/free-icon/radar_2881640"]radar icon[/URL], [URL="https://www.flaticon.com/free-icon/premium-badge_70535"]badge icon[/URL] by [URL="https://www.flaticon.com/authors/freepik"]Freepik[/URL], [URL="https://www.flaticon.com/free-icon/pilot-hat_4469538"]pilot hat icon[/URL], [URL="https://www.flaticon.com/free-icon/control-tower_761639"]control tower icon[/URL] by [URL="https://www.flaticon.com/authors/good-ware"]Good Ware[/URL], and [URL="https://www.flaticon.com/free-icon/airport_18847303"]airport icon[/URL] by [URL="https://www.flaticon.com/authors/sympnoiaicon"]Sympnoiaicon[/URL] from [URL="https://www.flaticon.com/"]Flaticon[/URL].[/SIZE]
