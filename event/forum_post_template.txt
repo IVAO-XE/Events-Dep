@@ -4,8 +4,8 @@
 [INDENT][LIST]
 [*][SIZE=20px][B]Date:[/B][/SIZE][SIZE=18px] 2025/05/11[/SIZE]
 [*][SIZE=20px][B]Time:[/B][/SIZE][SIZE=18px] 12:00z ~ 16:00z[/SIZE]
-[*][SIZE=20px][B]Type:[/B][/SIZE][SIZE=18px] Airbridge / Fly-In[/SIZE] 
-[*][SIZE=20px][B]Location:[/B][/SIZE][SIZE=18px] Taoyuan Intl (RCTP), Taiwan ←→ Hong Kong Intl (VHHH), Hong Kong SAR[/SIZE]
+[*][SIZE=20px][B]Type:[/B][/SIZE][SIZE=18px] One-way Airbridge / Dual Airbridge / Fly-In[/SIZE] 
+[*][SIZE=20px][B]Location:[/B][/SIZE][SIZE=18px] Taiwan Taoyuan Intl (RCTP), Taiwan ←→ Hong Kong Intl (VHHH), Hong Kong SAR[/SIZE]
 [*][SIZE=20px][B]Location:[/B][/SIZE][SIZE=18px] [TH] Suvarnabhumi Intl (VTBS), Thailand → [XE] Hong Kong Intl (VHHH), Hong Kong SAR[/SIZE]
 [*][SIZE=20px][B]Location[/B][/SIZE][INDENT][SIZE=18px]- [ID] Kualanamu Intl (WIMM), Indonesia
 - [TH] Suvarnabhumi Intl (VTBS), Thailand
@@ -18,7 +18,7 @@
 - [XE] Tan Son Nhat Intl (VVTS), Vietnam[/SIZE][/INDENT]
 [/LIST][/INDENT]
 
-[INDENT=2][JUSTIFY][SIZE=18px]Join us for another exciting flight in the [EVENT_NAME]! This time, we will be flying [between/from] [DEP_NAME (DEP_ICAO_CODE), REGION] [and/to] [ARR_NAME (ARR_ICAO_CODE), REGION], exploring the beautiful skies over [AREA]. Expect scenic routes, busy airways, and coordinated ATC coverage as we bring pilots together for an remarkable experience.[/SIZE][/JUSTIFY][/INDENT]
+[INDENT=2][JUSTIFY][SIZE=18px]Join us for another exciting flight in the {EVENT_NAME}! This time, we will be flying {between/from} {DEP_NAME (DEP_ICAO_CODE), REGION} {and/to} {ARR_NAME (ARR_ICAO_CODE), REGION}, exploring the beautiful skies over {AREA}. Expect scenic routes, busy airways, and coordinated ATC coverage as we bring pilots together for an remarkable experience.[/SIZE][/JUSTIFY][/INDENT]
 
 [CENTER][IMG width=95%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/forum_pilotInfo.png[/IMG][/CENTER]
 
@@ -67,7 +67,7 @@
 [INDENT][SIZE=18px][B]- ID:[/B] [URL="iwish.kemenhub.go.id"]iWish Indonesia[/URL]. Registering a free account is needed.
 [B]- IN:[/B] [URL="https://aim-india.aai.aero/eaip/"]India eAIP[/URL]
 [B]- TH:[/B] [URL="https://aip.caat.or.th/"]Thailand eAIP[/URL]
-[B]- XE:[/B] [URL="https://www.vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/AIP/2025-08-07-AIRAC/html/index-en-GB.html"]Vietnam eAIP[/URL] (latest AIRAC 2507)[/SIZE][/INDENT][/INDENT]
+[B]- XE:[/B] [URL="https://www.vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/AIP/2025-08-07-AIRAC/html/index-en-GB.html"]Vietnam eAIP[/URL] (latest AIRAC ????)[/SIZE][/INDENT][/INDENT]
 
 [CENTER][IMG width=95%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/forum_ATCInfo.png[/IMG][/CENTER]
 
