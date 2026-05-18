@@ -18,7 +18,7 @@
 - [XE] Tan Son Nhat Intl (VVTS), Vietnam[/SIZE][/INDENT]
 [/LIST][/INDENT]
 
-[INDENT=2][JUSTIFY][SIZE=18px]Join us for another exciting flight in the {EVENT_NAME}! This time, we will be flying {between/from} {DEP_NAME (DEP_ICAO_CODE), REGION} {and/to} {ARR_NAME (ARR_ICAO_CODE), REGION}, exploring the beautiful skies over {AREA}. Expect scenic routes, busy airways, and coordinated ATC coverage as we bring pilots together for an remarkable experience.[/SIZE][/JUSTIFY][/INDENT]
+[INDENT=2][JUSTIFY][SIZE=18px]Join us for another exciting flight in the {EVENT_NAME}! This time, we will be flying {between/from} {DEP_NAME (DEP_ICAO_CODE), REGION} {and/to} {ARR_NAME (ARR_ICAO_CODE), REGION}. Exploring the beautiful skies over {AREA}. Expect scenic routes, busy airways, and coordinated ATC coverage as we bring pilots together for an remarkable experience.[/SIZE][/JUSTIFY][/INDENT]
 
 [CENTER][IMG width=95%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/forum_pilotInfo.png[/IMG][/CENTER]
 
